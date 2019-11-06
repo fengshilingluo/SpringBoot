@@ -1,4 +1,4 @@
-package com.baizhi.action;
+﻿package com.baizhi.action;
 
 import com.baizhi.entity.Users;
 import com.baizhi.service.UsersService;
@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-//GIT BASH �ϵ��޸�
+//GIT BASH 上的修改
+//GIT BASH 上的第二次修改
 @Controller
 @RequestMapping("/users")
 public class UsersAction {
